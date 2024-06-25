@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daivat Shah</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="left">About Me :</h3>
+<p>I am a passionate full stack developer with 3 years of experience specializing in MERN stack development. 🌐 My expertise spans MongoDB, Express.js, React, and Node.js, allowing me to build robust and dynamic web applications. 💻 Additionally, I have hands-on experience with MySQL, broadening my ability to work with different databases. 🗄️ Throughout my career in software development, I have created and implemented numerous projects, consistently integrating the latest technologies to ensure high performance and scalability. 🚀 My work in web development has equipped me with the skills to create seamless and interactive user interfaces.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+My professional journey includes working with reputable companies where I gained extensive experience in production-level technologies. 🏢 I am proficient in hosting and deploying websites, ensuring they are secure, efficient, and reliable. 🔒 My familiarity with cloud platforms and continuous integration/continuous deployment (CI/CD) pipelines has streamlined development processes, enhancing the overall efficiency of software development projects. ☁️ My commitment to staying updated with industry trends and best practices drives my passion for creating innovative solutions in the dynamic field of web development. 🌟 </p>
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daivat7263&label=Profile%20views&color=0e75b6&style=flat" alt="daivat7263" /> </p>
 
